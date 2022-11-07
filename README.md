@@ -1,6 +1,16 @@
-# Hi there 👋
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-My name is Job van Koeveringe and I'm a student at Avans University of Applied Sciences. I started programming in 2017 and have programmed several languages over the years.
+### :man_technologist: &nbsp;About Me :
+
+My name is Job van Koeveringe I'm a Student / Backend Developer from The Netherlands.
+
+- 🏫 I’m studying Computer Science at Avans University of Applied Sciences
+- 🚀 Currently, I am pursuing a European Project Semester abroad at Novia University of Applied Sciences
+- 🌱 My goal is to always learn something new everyday.
+- ⚡ In my free time I love to expand open-source projects and work on my own projects.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Job%20van%20Koeveringe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/job-van-koeveringe/)
+
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -21,6 +31,7 @@ My name is Job van Koeveringe and I'm a student at Avans University of Applied S
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jobvk&theme=dark&background=000000)](https://github.com/jobvk/)
