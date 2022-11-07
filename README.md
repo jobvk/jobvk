@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Job van Koeveringe and I'm a student at Avans University of Applied Sciences. I started programming in 2017 and have programmed several languages over the years.
+
+## Stats
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jobvk&show_icons=true&include_all_commits=true)](https://github.com/jobvk/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobvk&layout=compact)](https://github.com/jobvk/)
 
 <!--
 **jobvk/jobvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
