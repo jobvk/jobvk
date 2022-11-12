@@ -2,7 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-My name is Job van Koeveringe I'm a Student / Backend Developer from The Netherlands.
+My name is Job van Koeveringe I'm a Student / Back-end Developer from The Netherlands.
 
 - 🏫 I’m studying Computer Science at Avans University of Applied Sciences
 - 🚀 Currently, I am pursuing a European Project Semester abroad at Novia University of Applied Sciences
