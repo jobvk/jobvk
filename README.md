@@ -8,7 +8,7 @@ My name is Job van Koeveringe I'm a Student / Back-end Developer from The Nether
 - 🚀 Currently, I am pursuing a European Project Semester abroad at Novia University of Applied Sciences
 - 🌱 My goal is to always learn something new everyday.
 - ⚡ In my free time I love to expand open-source projects and work on my own projects.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Job%20van%20Koeveringe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/job-van-koeveringe/)
+- 📫 How to reach me: &nbsp; [![](https://img.shields.io/website?label=jobvankoeveringe.com&url=https%3A%2F%2Fjobvankoeveringe.com)](https://jobvankoeveringe.com) [![Linkedin Badge](https://img.shields.io/badge/-Job%20van%20Koeveringe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/job-van-koeveringe/)
 
 ---
 
