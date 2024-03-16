@@ -1,12 +1,13 @@
 # Hi there 🖖, I'm Job van Koeveringe
 
-I'm a Student / Back-end Developer from The Netherlands.
+I'm a Back-end Developer from The Netherlands.
 
-- 🏫 I’m studying Computer Science at Avans University of Applied Sciences
-- 🚀 Currently, I am working on my bachelor thesis at [@iodigital-com](https://github.com/iodigital-com)
+- 🚀 Currently, I am working as a Software Engineer at [Prodrive Technologies](https://prodrive-technologies.com)
+- 🎓 I hold a Bachelor's degree in Computer Science from [Avans University of Applied Sciences](https://www.avans.nl).
+- 💼 Previously, I interned at [iO](https://www.iodigital.com) where I gained valuable experience in software development.
 - 🌱 My goal is to always learn something new everyday.
 - ⚡ In my free time I love to expand open-source projects and work on my own projects.
-
+- 🤝 Collaboration is key to success, and I'm always open to connecting with fellow developers and enthusiasts to share knowledge and ideas.
 ---
 
 ### 🔗 Connect with me :
@@ -53,7 +54,7 @@ I'm a Student / Back-end Developer from The Netherlands.
 #### ☁️ Cloud:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
 </p>
